@@ -107,7 +107,7 @@ figure {
   border-bottom: 3px solid #000;
   float: right;
   padding: .4em 0;
-  margin-right: -150px;
+  margin: .5em -150px -.5em .75em;
 }
 
 figcaption {
@@ -121,7 +121,7 @@ blockquote {
   border-top: 3px solid #000;
   border-bottom: 3px solid #000;
   float: left;
-  margin: .5em .75em .5em -150px;
+  margin: 0 .75em 0 -150px;
   text-align: right;
   font-size: 1.5rem;
 }
